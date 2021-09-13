@@ -10,3 +10,4 @@
 ##### 1.Seller can add new item in inventory. 2.Seller can update(increase or decrease) quantity of item in inventory. 3.Seller can removed any item in inventory 4.Seller can refresh all store purchase or new item history.
 
 
+
