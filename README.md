@@ -8,6 +8,3 @@
 ##### 1.Customer get details of item in store. 2.Customer get fully details whatever included in features. 3.Customer can order item whatever they want and quatity updated in inventory automatically.
 #### 2.For Seller Interface
 ##### 1.Seller can add new item in inventory. 2.Seller can update(increase or decrease) quantity of item in inventory. 3.Seller can removed any item in inventory 4.Seller can refresh all store purchase or added new item history.
-
-
-
